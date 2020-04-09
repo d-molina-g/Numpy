@@ -36,5 +36,6 @@ print(D.size*D.itemsize)
 
 #Comprobar la eficiencia en Tiempo entre un arreglo normal (lista) vs Numpy array
 ##kjk
-jhkjh
+
+#comment
 
