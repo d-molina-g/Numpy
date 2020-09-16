@@ -8,9 +8,9 @@ b = np.array([(1,2,3,),(4,5,6),(7,8,9)])
 print("2D array:")
 print(b)
 
-print(a[2]) #De esta manera acceder al dato (igual que un arreglo normal)
+print(a[1]) #De esta manera acceder al dato (igual que un arreglo normal)
 
-print(b[2,2]) #Se accede igual que una matriz bidimensional normal
+print(b[1,2]) #Se accede igual que una matriz bidimensional normal
 
 #Tipo de dato que nos retorna
 
